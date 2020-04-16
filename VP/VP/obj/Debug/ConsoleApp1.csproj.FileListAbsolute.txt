@@ -1,0 +1,11 @@
+C:\Users\maxi0\source\repos\VP\VP\bin\Debug\VP.exe.config
+C:\Users\maxi0\source\repos\VP\VP\bin\Debug\VP.exe
+C:\Users\maxi0\source\repos\VP\VP\bin\Debug\VP.pdb
+C:\Users\maxi0\source\repos\VP\VP\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\maxi0\source\repos\VP\VP\obj\Debug\VP.Properties.Resources.resources
+C:\Users\maxi0\source\repos\VP\VP\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\maxi0\source\repos\VP\VP\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\maxi0\source\repos\VP\VP\obj\Debug\VP.exe
+C:\Users\maxi0\source\repos\VP\VP\obj\Debug\VP.pdb
+C:\Users\maxi0\source\repos\VP\VP\obj\Debug\VP.Form1.resources
+C:\Users\maxi0\source\repos\VP\VP\obj\Debug\VP.Form2.resources
