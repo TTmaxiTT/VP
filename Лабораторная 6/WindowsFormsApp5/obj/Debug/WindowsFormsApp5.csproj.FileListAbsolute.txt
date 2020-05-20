@@ -9,3 +9,14 @@ C:\Users\maxi0\source\repos\ВП 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.c
 C:\Users\maxi0\source\repos\ВП 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
 C:\Users\maxi0\source\repos\ВП 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
 C:\Users\maxi0\source\repos\ВП 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\GitHub\Лабораторная 6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb

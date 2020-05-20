@@ -14,7 +14,7 @@ namespace WindowsFormsApp5
     public partial class Form2 : Form
     {
         string np = "";
-        string s = File.ReadAllText(@"C:\Users\maxi0\source\repos\ВП 6\users.txt");
+        string s = File.ReadAllText(@"users.txt");
         public Form2()
         {
             InitializeComponent();
@@ -45,11 +45,24 @@ namespace WindowsFormsApp5
                 update = update + user[j]+" ";
                 j++;
             }
-            StreamWriter sw = new StreamWriter(@"C:\Users\maxi0\source\repos\ВП 6\users.txt");
+            StreamWriter sw = new StreamWriter(@"users.txt");
             sw.WriteLine(Convert.ToString(update));
             sw.Close();
             f1.Show();
             this.Close();          
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1 f1 = new Form1();
+            f1.Show();
+            this.Close();
+
+        }
+
+        private void Form2_FormClosed(object sender, FormClosedEventArgs e)
+        {
+           
         }
     }
 }

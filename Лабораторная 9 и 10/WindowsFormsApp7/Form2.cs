@@ -19,15 +19,20 @@ namespace WindowsFormsApp7
 
         private void writerBindingNavigatorSaveItem_Click(object sender, EventArgs e)
         {
-            this.Validate();
-            this.writerBindingSource.EndEdit();
-            this.tableAdapterManager.UpdateAll(this.booksDataSet);
-
+            try
+            {
+                this.Validate();
+                this.writerBindingSource.EndEdit();
+                this.tableAdapterManager.UpdateAll(this.booksDataSet);
+            }
+            catch
+            {
+                MessageBox.Show("Ошибка");
+            }
         }
 
         private void Form2_Load(object sender, EventArgs e)
-        {
-            // TODO: данная строка кода позволяет загрузить данные в таблицу "booksDataSet.writer". При необходимости она может быть перемещена или удалена.
+        {          
             this.writerTableAdapter.Fill(this.booksDataSet.writer);
 
         }

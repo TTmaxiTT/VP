@@ -32,7 +32,7 @@ namespace WindowsFormsApp5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string s = File.ReadAllText(@"C:\Users\maxi0\source\repos\ВП 6\users.txt");
+            string s = File.ReadAllText(@"users.txt");
             string[] user = s.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
             int i = 0;
             while (i < user.Length)
@@ -66,11 +66,22 @@ namespace WindowsFormsApp5
             }
             if (i!=10000)
                 MessageBox.Show("неверный логин или пароль");
+            this.Hide();
             
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Close();
-        }   
+            Application.Exit();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

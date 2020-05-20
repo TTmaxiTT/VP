@@ -19,15 +19,21 @@ namespace WindowsFormsApp7
 
         private void booksBindingNavigatorSaveItem_Click(object sender, EventArgs e)
         {
-            this.Validate();
-            this.booksBindingSource.EndEdit();
-            this.tableAdapterManager.UpdateAll(this.booksDataSet);
-
+            try
+            {
+                this.Validate();
+                this.booksBindingSource.EndEdit();
+                this.tableAdapterManager.UpdateAll(this.booksDataSet);
+            }
+            catch
+            {
+                MessageBox.Show("Ошибка");
+            }
         }
 
         private void Form3_Load(object sender, EventArgs e)
         {
-            // TODO: данная строка кода позволяет загрузить данные в таблицу "booksDataSet.books". При необходимости она может быть перемещена или удалена.
+           
             this.booksTableAdapter.Fill(this.booksDataSet.books);
 
         }

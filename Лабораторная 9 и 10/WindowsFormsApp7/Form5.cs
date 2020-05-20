@@ -19,15 +19,23 @@ namespace WindowsFormsApp7
 
         private void order_listBindingNavigatorSaveItem_Click(object sender, EventArgs e)
         {
-            this.Validate();
-            this.order_listBindingSource.EndEdit();
-            this.tableAdapterManager.UpdateAll(this.booksDataSet);
+            try
+            {
 
+
+                this.Validate();
+                this.order_listBindingSource.EndEdit();
+                this.tableAdapterManager.UpdateAll(this.booksDataSet);
+            }
+            catch
+            {
+                MessageBox.Show("Ошибка");
+            }
         }
 
         private void Form5_Load(object sender, EventArgs e)
         {
-            // TODO: данная строка кода позволяет загрузить данные в таблицу "booksDataSet.order_list". При необходимости она может быть перемещена или удалена.
+           
             this.order_listTableAdapter.Fill(this.booksDataSet.order_list);
 
         }

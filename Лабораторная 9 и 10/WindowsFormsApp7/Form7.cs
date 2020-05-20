@@ -19,10 +19,16 @@ namespace WindowsFormsApp7
 
         private void Form7_Load(object sender, EventArgs e)
         {
-            // TODO: данная строка кода позволяет загрузить данные в таблицу "BooksDataSet.writer". При необходимости она может быть перемещена или удалена.
-            this.writerTableAdapter.Fill(this.BooksDataSet.writer);
+            try
+            {
+                this.writerTableAdapter.Fill(this.BooksDataSet.writer);
 
-            this.reportViewer1.RefreshReport();
+                this.reportViewer1.RefreshReport();
+            }
+            catch
+            {
+                MessageBox.Show("Ошибка");
+            }
         }
     }
 }
