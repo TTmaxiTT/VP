@@ -2,8 +2,7 @@ create database postcards;
 
 create table post
 (id_post serial primary key,
-donor_name text not null,
-recipient name text not null,
+name text not null,
 donor text not null,
 recipient text not null,
 congratulation text not null,

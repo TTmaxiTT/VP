@@ -39,3 +39,44 @@ C:\Users\maxi0\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsF
 C:\Users\maxi0\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
 C:\Users\maxi0\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
 C:\Users\maxi0\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\EntityFramework.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\EntityFramework6.Npgsql.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\Npgsql.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Buffers.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Memory.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Numerics.Vectors.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Text.Encodings.Web.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Text.Json.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.ValueTuple.dll
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\EntityFramework.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\EntityFramework6.Npgsql.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\Npgsql.pdb
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\Npgsql.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Buffers.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Memory.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Numerics.Vectors.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Text.Encodings.Web.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Text.Json.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\bin\Debug\System.ValueTuple.xml
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\GitHub\Контрольная 2\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
