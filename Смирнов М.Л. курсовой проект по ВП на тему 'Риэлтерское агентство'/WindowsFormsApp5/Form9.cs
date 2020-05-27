@@ -37,7 +37,7 @@ namespace WindowsFormsApp5
                 try
                 {
                     s = (from clien in clienth
-                         where clien.surname == textBox1.Text
+                         where clien.id_client == Convert.ToInt32(textBox1.Text)
                          select clien.id_client).Distinct().First();
                 }
                 catch
